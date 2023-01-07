@@ -1,0 +1,19 @@
+/*** Client Section ***/
+
+.client-items .item {
+    display: inline-block;
+}
+
+.client-items .item img {
+    display: inline-block;
+    margin: 11px 0;
+}
+
+.client-items .item img:hover {
+    display: inline-block;
+}
+
+.client-section {
+    padding: 90px 0;
+    padding-bottom: 75px;
+}
